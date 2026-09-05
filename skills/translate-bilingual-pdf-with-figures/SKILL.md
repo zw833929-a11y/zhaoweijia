@@ -198,7 +198,7 @@ Recommended invocation:
 
 > Use $translate-bilingual-pdf-with-figures to translate this scientific PDF paragraph by paragraph into Chinese, insert every original figure at the corresponding position, preserve references and scientific notation, and deliver a visually verified DOCX.
 
-For a concrete completed-project record and handoff template, read [references/handoff.md](references/handoff.md).
+For a public-safe reusable handoff template, read [references/handoff.md](references/handoff.md).
 
 ## Resource map
 
@@ -206,4 +206,4 @@ For a concrete completed-project record and handoff template, read [references/h
 - `scripts/build_bilingual_docx.py`: model-driven bilingual DOCX baseline.
 - `scripts/audit_bilingual_docx.py`: structural and content QA.
 - `references/model-schema.md`: canonical intermediate model.
-- `references/handoff.md`: completed-case lessons and reusable handoff format.
+- `references/handoff.md`: public-safe lessons and reusable handoff format.
