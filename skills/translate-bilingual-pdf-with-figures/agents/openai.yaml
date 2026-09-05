@@ -1,0 +1,15 @@
+interface:
+  display_name: 学术PDF双语翻译
+  short_description: 逐段翻译学术PDF、保留原图并生成经质检的双语文档
+  default_prompt: Use $translate-bilingual-pdf-with-figures to translate this academic
+    PDF paragraph by paragraph, preserve its figures, and deliver a verified bilingual
+    document.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
